@@ -63,7 +63,7 @@ class Parrot {
 
 class ApprenticeParrot extends Parrot {
    speak(){
-   return "😴" // ... 
+   return "😴"; // ... 
    }
 }
 
